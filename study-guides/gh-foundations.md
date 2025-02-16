@@ -1,4 +1,4 @@
-# GitHub Foundations
+# GitHub Foundations 
 
 ## Objective Domains
 
